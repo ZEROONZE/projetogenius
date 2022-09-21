@@ -39,7 +39,7 @@ export const Container = styled.div`
 
 
 
-    width: 10rem;
+    width: 20rem;
     height: 2.75rem;
     font-size: 16px;
     font-weight: 500;
@@ -49,7 +49,7 @@ export const Container = styled.div`
     padding: 0.7rem 2.5rem;
     transition: all 0.2s ease 0s;
     cursor: pointer;
-    background: rgb(23, 111, 284);
+    background: rgb(23, 151, 136);
     border: 1px solid rgb(4, 170, 109);
     margin-bottom: 15px;
     justify-content: center;
@@ -58,11 +58,11 @@ export const Container = styled.div`
   margin-top: 1rem;
 }
 .buttom:hover{
-    width: 10.2rem;
+    width: 20rem;
 	transform: (1.05);
     background: rgb(23, 151, 136);
 transition: .3s;
-
+color: black;
 padding: 0.7rem 2.5rem;
  border: 1px solid #197781;
 

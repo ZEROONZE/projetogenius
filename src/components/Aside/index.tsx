@@ -50,7 +50,7 @@ const Aside: React.FC = () => {
             <FiUsers className='icon' />
     
             </Link>
-            <Link to="/list">
+            <Link to="/Disparos">
                 
                      <GoCommentDiscussion className='icon'/>
                 
